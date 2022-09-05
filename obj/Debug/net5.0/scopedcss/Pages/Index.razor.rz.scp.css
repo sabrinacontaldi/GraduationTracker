@@ -1,0 +1,138 @@
+.body[b-svlxlrtbgm]{
+	font-family: 'Courier New', Courier, monospace;
+}
+
+.body h3[b-svlxlrtbgm]{
+	text-align: center;
+}
+
+.body h5[b-svlxlrtbgm]{
+	text-align: center;
+}
+
+#pT[b-svlxlrtbgm]{
+	text-align: center;
+}
+
+.SemesterBlock[b-svlxlrtbgm]{
+	font-family: 'Courier New', Courier, monospace;
+    /* box-sizing: content-box; */
+    /* width: 90%; */
+    border: 2px solid grey;
+    padding-top: 0;
+    padding: 10px;
+    border-radius: 4px;
+    min-height: fit-content;
+    min-width: fit-content;
+    margin: 5px;
+	background-image: url(https://www.depauw.edu/files/resources/large_first-snow40.jpg);
+	background-size: cover;
+	background-position: center, center;
+	background-repeat: no-repeat;
+	
+}
+	.SemesterBlock h4[b-svlxlrtbgm]{
+		text-align: center;
+	}
+
+	.SemesterBlock .table-header[b-svlxlrtbgm]{
+		text-align: center;
+		color: white;
+		background-color: #333;
+	}
+	
+	input[b-svlxlrtbgm]{
+		font-family:'Courier New', Courier, monospace;
+		color: black;
+		text-align: center;
+		margin-top: 5px;
+		/* width: inherit;
+		height: inherit; */
+	}
+	
+	select[b-svlxlrtbgm]{
+		color: black;
+		text-align: center;
+		border-style: hidden;
+		border-radius: 4px;
+		min-width: 20px;
+		height: inherit;
+		padding-left: 5px;    
+	}
+	
+	input[b-svlxlrtbgm], select[b-svlxlrtbgm]{
+		text-align: center;
+		box-sizing: border-box;
+		border-style: solid;
+		border-width: 1px;
+		height: 38px;
+		margin-top: 5px;
+	}
+	
+	.box-dropdown[b-svlxlrtbgm]{
+		text-align: center;
+	}
+
+
+	.radio-buttons[b-svlxlrtbgm]{
+		width: fit-content;
+		background-color: #fff;
+		padding: 5px;
+		padding-bottom: 0;
+		margin-bottom: 2px;
+		border-color: rgb(14, 13, 13);
+		border-width: 2px;
+		max-height: fit-content;
+	}
+
+	.radio-buttons input[b-svlxlrtbgm]{
+		height: auto;
+	}
+
+	.radio[b-svlxlrtbgm]{
+		color: black;
+	}
+	/* .radio-buttons input {
+		position: absolute;
+		opacity: 0;
+		cursor: pointer;
+		height: 0;
+		width: 0;
+	} */
+
+	/* .radio {
+		position: absolute;
+		top: 0;
+		left: 0;
+		height: 25px;
+		width: 25px;
+		background-color: #eee;
+		border-radius: 50%;
+		filter: grayscale(1);
+	  } */
+
+/* table #course-table {
+	background-image:url(seven-samurai.jpg);
+	background-size: cover;
+	border-collapse: collapse;
+}
+
+table #course-table caption {
+	font-size: larger;
+	padding: 1em;
+}
+
+table #course-table td {
+	padding: .5em;
+}
+
+table #course-table thead tr {
+	background: #000;
+	color: #fff;
+} */
+
+button[b-svlxlrtbgm]{
+	border-radius: 30px;
+	height: 50px;
+	width: 150px;
+}

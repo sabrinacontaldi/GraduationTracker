@@ -1,0 +1,208 @@
+﻿@page "/"
+@using Blazor_CoursePlanner.Controls
+
+<link rel="stylesheet" href="Index.razor.css">
+
+
+<head>
+<h2>Welcome!</h2>
+</head>
+<p>
+    This application will help you track your progress with your degree. This was designed for DePauw students to stay on top of their graduation requirements.Select your Degree type and major (if that option is given to you), then input your course information.
+    In the summary table at the bottom of the page, you will be able to see whether you have met all of your graduation requirements.
+</p>
+<p>
+    If you are wanting to track your major progress accurately:
+    <li> Enter the Course Code in the following format "MATH151"</li>
+    <li> Enter the Course credits correctly</li>
+</p>
+<body>
+<h3 id="pT">Your Progress Tracker</h3>
+Fill in the information for your courses below. Additional Courses and Semesters may be added as needed.
+
+<br/>
+Degree: <select class="box-dropdown" @bind="coursePlan.DegreeType">
+    @* <option>-</option> *@
+    <option>Bachelor of Arts</option>
+    <option>Bachelor of Music</option>
+    <option>Bachelor of Musical Arts</option>
+    <option>Bachelor of Music Education</option>
+    <option>Bachelor of Music/Bachelor of Arts Double Degree</option>
+</select>
+<br/>
+<!-- Majors -->
+<CascadingValue Name="CourseP" Value="@coursePlan">
+        <MajorComponent></MajorComponent>
+</CascadingValue>
+<br/>
+<br/>
+<!-- Minors -->
+<CascadingValue Name="CourseP" Value="@coursePlan">
+        <MinorComponent></MinorComponent>
+</CascadingValue>
+<br/>
+
+<!-- Semester Block -->
+@* <body> *@
+<div class="semBlock">
+    @{ int semesterNum = 1;}
+    @foreach (var sem in coursePlan.SemList)
+    {
+        <section class="SemesterBlock">
+            <h4 id="semHeading">Semester @semesterNum</h4> 
+                @{ semesterNum++; }
+                <div class="radio-buttons">
+                    <label> 
+                        <input type="radio" value="On Campus" checked="@(sem.SemType == 1)" 
+                        @onclick= "@(()=>sem.SemType = 1)"> On Campus <span class="radio"></span>
+                    </label>
+                    <label> 
+                        <input type="radio" value="Off Campus" checked="@(sem.SemType == 2)" 
+                        @onclick= "@(()=>sem.SemType = 2)"> Off Campus <span class="radio"></span>
+                    </label>
+                    <label> 
+                        <input type="radio" value="Off Campus" checked="@(sem.SemType == 3)" 
+                        @onclick= "@(()=>sem.SemType = 3)"> May/Winter term <span class="radio"></span>
+                    </label>
+                </div>
+
+            <table id="course-table" class="table semester-table">
+                <col><col><col><col><col><col>
+                <thead>
+                    <tr class="table-header">
+                        <th>Course Code</th>
+                        <th>Course Title</th>
+                        <th>Credits</th>
+                        <th>Grade</th>
+                        <th>Distribution</th>
+                        <th>Competency</th>
+                    </tr>
+                </thead>
+                <tbody>
+                <!-- Courses -->
+                    @foreach (var c in sem.Courses)
+                    {
+                    <tr>
+                        <td>
+                            <input type="text" placeholder="Eg. WGSS140" class="form-control" @bind-value="c.CourseCode"
+                        @bind-value:event="oninput" />
+                        </td>
+                        <td>
+                            <input type="text" placeholder="Eg. Intro to WGSS" class="form-control" @bind-value="c.Title"
+                        @bind-value:event="oninput" />
+                        </td>
+                        <td>
+                            <input type="number" placeholder="-" class="form-control" min=0 max=4 @bind-value="c.Credits"
+                        @bind-value:event="oninput" />
+                        </td>
+                        <td>
+                            <select class="box-dropdown form-control" @bind="c.GradeL">
+                                <option>-</option>
+                                <option>A</option>
+                                <option>A-</option>
+                                <option>B+</option>
+                                <option>B</option>
+                                <option>B-</option>
+                                <option>C+</option>
+                                <option>C</option>
+                                <option>C-</option>
+                                <option>D+</option>
+                                <option>D</option>
+                                <option>D-</option>
+                                <option>F</option>
+                                <option>P</option>
+                            </select>
+                        </td>
+                        <td>
+                            <select class="box-dropdown form-control" @bind="c.DistributionReq">
+                                <option></option>
+                                <option>AH</option>
+                                <option>SS</option>
+                                <option>SM</option>
+                                <option>PPD</option>
+                                <option>GL</option>
+                                <option>LA</option>
+                            </select>
+                        </td>
+                        <td>
+                            <select class="box-dropdown form-control" @bind="c.CompetencyReq">
+                                <option></option>
+                                <option>Q</option>
+                                <option>W</option>
+                                <option>S</option>
+                            </select>
+                        </td>
+                    </tr>
+                    }
+                </tbody>
+            </table>
+            <div>
+                <button type="button" @onclick = "@(()=>sem.Courses.Add(new Subject{}))" >Add Course</button>
+            </div>
+        </section>
+    }
+
+    <!-- Add Semester Button--> 
+    <div class="button-center" >
+        <div class="center-horizontal">
+            <button type="button" @onclick="@(()=>coursePlan.SemList.Add(new Semester()))">Add Semester</button>
+        </div>
+    </div>
+</div>
+</body>
+
+<section>
+    <!-- Summary -->
+    <h3>Summary Table</h3>
+        <table class="table">
+            <tr>
+                <th>Credits</th>
+                <th>GradePoints</th>
+                <th>GPA</th>
+                <th>Status</th>
+                <th>Competency</th>
+                <th>Distribution</th>
+            </tr>
+            <tr>
+                <td>@coursePlan.TCredits/@coursePlan.TotalCredits</td>
+                <td>@coursePlan.TGradePoints</td>
+                <td>@coursePlan.TGPA</td>
+                <td>@coursePlan.GradStatus</td>
+                <td>@coursePlan.CompReq</td>
+                <td>@coursePlan.DistribuReq</td>
+            </tr>
+        </table>
+    <hr>
+
+    <div class="button-center">
+        <div class="center-horizontal">
+            <button type="button" @onclick="Update">Calculate</button>
+        </div>
+    </div>
+
+    <h3>Progess Report</h3>
+    <p>
+        Competency: @coursePlan.CompReqInfo
+    <br/>
+        Distribution: @coursePlan.DistribuReqInfo
+    </p>
+
+    <!-- Major Progress Report -->
+    <CascadingValue Name="CourseP" Value="@coursePlan">
+        <MajorProgressComponent></MajorProgressComponent>
+    </CascadingValue>
+
+    <!-- Minor Progress Report -->
+    <CascadingValue Name="CourseP" Value="@coursePlan">
+        <MinorProgressComponent></MinorProgressComponent>
+    </CascadingValue>    
+</section>
+
+@code {
+    CoursePlan coursePlan = new CoursePlan();
+
+    private void Update()
+    {
+        coursePlan.GradRequirements();
+    }
+}

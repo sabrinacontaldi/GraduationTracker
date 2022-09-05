@@ -1,0 +1,30 @@
+@page "/majorminor"
+
+@* <table>
+    <thead>
+        <tr>
+            <th>Majors</th>
+            <th>Minors</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach ( var data in s1.Majors)
+        {
+            <tr>
+                <td>@data.ToString()</td>
+            </tr>
+        }
+        @* @foreach ( var minor in scrapit.Minors)
+        {
+            <tr>
+                <td>@minor.ToString()</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@code{
+    public List<string> LstData = new List<string>();
+    //static ScrapperService s1 = new ScrapperService();
+
+} *@

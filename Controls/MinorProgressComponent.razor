@@ -1,0 +1,27 @@
+@if(CourseP.DegreeType == "Bachelor of Arts")
+{
+    <h3>Minor Progess Report</h3>
+    <p>
+        @foreach(var m in CourseP.MinorChoices)
+        {
+            if(m.Title.Equals("-"))
+            {
+                <p>Select a Minor for more information!</p>
+            }
+            else
+            {
+                <p>@m.Info</p>
+                <p>Credits: @m.Credits</p>
+                <p>Core Courses: @m.CoreCoursesLeft</p>
+                <p>Required Courses: @m.ReqCoursesLeft</p>
+                <p>Number of 300 and 400: @m.Num300400</p>
+            }
+        <hr>
+        }
+    </p>
+}
+
+@code{
+    [CascadingParameter(Name="CourseP")]
+    public CoursePlan CourseP { get; set; }
+}

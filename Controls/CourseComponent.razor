@@ -1,0 +1,68 @@
+<div>
+    @foreach(var sem in CourseP.SemList)
+    {
+        <tr class="table-header">
+                    <th>Course Code</th>
+                    <th>Course Title</th>
+                    <th>Number of Credits</th>
+                    <th>Grade</th>
+                    <th>Distribution</th>
+                    <th>Competency</th>
+        </tr>
+        @foreach (var c in sem.Courses)
+        {
+            <tr>
+                <td>
+                    <input type="text" placeholder="Eg. WGSS140" class="form-control" @bind-value="c.CourseCode" @bind-value:event="oninput" />
+                </td>
+                <td>
+                    <input type="text" placeholder="Eg. Intro to WGSS" class="form-control" @bind-value="c.Title" @bind-value:event="oninput" />
+                </td>
+                <td>
+                    <input type="number" placeholder="-" class="form-control" @bind-value="c.Credits" @bind-value:event="oninput" />
+                </td>
+                <td>
+                    <select class="box-dropdown" @bind="c.GradeL">
+                        <option>-</option>
+                        <option>A</option>
+                        <option>A-</option>
+                        <option>B+</option>
+                        <option>B</option>
+                        <option>B-</option>
+                        <option>C+</option>
+                        <option>C</option>
+                        <option>C-</option>
+                        <option>D+</option>
+                        <option>D</option>
+                        <option>D-</option>
+                        <option>F</option>
+                        <option>P</option>
+                    </select>
+                </td>
+                <td>
+                    <select class="box-dropdown" @bind="c.DistributionReq">
+                        <option></option>
+                        <option>AH</option>
+                        <option>SS</option>
+                        <option>SM</option>
+                        <option>PPD</option>
+                        <option>GL</option>
+                        <option>LA</option>
+                    </select>
+                </td>
+                <td>
+                    <select class="box-dropdown" @bind="c.CompetencyReq">
+                        <option></option>
+                        <option>Q</option>
+                        <option>W</option>
+                        <option>S</option>
+                    </select>
+                </td>
+            </tr>
+        }
+    }
+</div>
+@code{
+    [CascadingParameter(Name="CourseP")]
+    public CoursePlan CourseP { get; set; }
+}

@@ -1,0 +1,24 @@
+@if(CourseP.DegreeType == "Bachelor of Arts")
+{
+    int majorNum = 1;
+    foreach(var maj in CourseP.MajorChoices)
+    {
+        <label>Major @majorNum:     </label>
+        majorNum++;
+
+        <select class="box-dropdown" @bind="maj.Title">
+            <option>-</option>
+            @foreach(var m in CLA.Majors)
+            {
+                <option>@m.Title</option>
+            }
+        </select> 
+    }
+    <br/>
+    <button type="button" @onclick = "@(()=>CourseP.MajorChoices.Add(new MajorInfo{Title="-"}))" >Add Major</button>
+}
+
+@code{
+    [CascadingParameter(Name="CourseP")]
+    public CoursePlan CourseP { get; set; }
+}

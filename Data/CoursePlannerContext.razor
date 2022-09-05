@@ -1,0 +1,81 @@
+@* @code{
+    
+    //major interface - do i create major objects or major classes?
+    public interface iMajors
+    {
+        double CreditsRequired{ get; }
+        double CreditsLeft{ get; }
+        List<Subject> CoreCourses{ get; }
+        bool CoreComplete{ get; }
+        List<Subject> CoreCoursesToComplete{ get; }
+        void Core(CoursePlan c){}
+    }
+    
+    public class Major
+    {
+        public double Credit{ get; set; }
+        //everytime a course is ticked off, subtract the credit from credits left
+        public double CreditsLeft{ get; set; }
+    //deal with core courses
+    //find a way to do it with a list of strings containing corecodes instead of subjects 
+    //- that way if all the info doesnt match, it isnt a problem (human error)
+        public List<Subject> CoreCourses;
+        public bool CoreComplete{ get; set; }
+        public List<Subject> CoreCoursesToComplete;
+    //deal with other required courses
+
+    //number of 300 and 400 level courses
+        
+        //Checks to see if all of the core courses have been completed
+        public void Core(CoursePlan c)
+        {
+            List<Subject> CourseList = new List<Subject>();
+            List<Subject> CoreCopy = CoreCourses;
+            
+            foreach(var sem in c.SemList)
+            {
+                foreach(var course in sem.Courses)
+                {
+                    CourseList.Add(course);
+                }
+            }
+
+            foreach(var course in CourseList)
+            {
+                if(CoreCourses.Contains(course))
+                {
+                    CoreCopy.Remove(course);
+                }
+            }
+
+            if(CoreCopy.Count() == 0)
+            {
+                CoreComplete = true;
+            }
+            else
+            {
+                CoreComplete = false;
+                CoreCoursesToComplete = CoreCopy;
+
+            }   
+        }
+
+        //
+         
+    }
+
+    public class ComputerScience : Major
+    {
+        public readonly List<string> CoreCourseCodes = new List<string>() { 
+            "CSC121", 
+            "CSC122", 
+            "CSC231", 
+            "CSC232", 
+            "CSC233", 
+            "CSC240", 
+            "CSC498"
+        };
+
+
+    }
+} *@
