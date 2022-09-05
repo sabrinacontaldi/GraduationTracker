@@ -1,0 +1,119 @@
+ @* <div class="semBlock">
+
+    @{ int semesterNum = 1;} 
+
+    @foreach (var sem in CourseP.SemList)
+    {
+        <div class="SemesterBlock">
+
+            <h4 id="semHeading">Semester @semesterNum</h4> 
+            @{ semesterNum++; }
+
+                <label>
+                    <input type="radio" value="On Campus" checked="@(sem.SemType == 1)" 
+                    @onclick= "@(()=>sem.SemType = 1)"/> On Campus
+                </label>
+
+                <label>
+                    <input type="radio" value="Off Campus" checked="@(sem.SemType == 2)" 
+                    @onclick= "@(()=>sem.SemType = 2)"/> Off Campus
+                </label>
+
+                <label>
+                    <input type="radio" value="Off Campus" checked="@(sem.SemType == 3)" 
+                    @onclick= "@(()=>sem.SemType = 3)"/> May/Winter term
+                </label>
+            
+            <table id="course-table" class="table">
+
+                @* <tr class="table-header">
+                    <th>Course Code</th>
+                    <th>Course Title</th>
+                    <th>Number of Credits</th>
+                    <th>Grade</th>
+                    <th>Distribution</th>
+                    <th>Competency</th>
+                </tr>
+
+                <!-- Courses -->
+                <CourseComponent></CourseComponent>
+                    @foreach (var c in sem.Courses)
+                    {
+                        <tr>
+                            <td>
+                                <input type="text" placeholder="Eg. WGSS140" class="form-control" @bind-value="c.CourseCode" @bind-value:event="oninput" />
+                            </td>
+                            <td>
+                                <input type="text" placeholder="Eg. Intro to WGSS" class="form-control" @bind-value="c.Title" @bind-value:event="oninput" />
+                            </td>
+                            <td>
+                                <input type="number" placeholder="-" class="form-control" @bind-value="c.Credits" @bind-value:event="oninput" />
+                            </td>
+                            <td>
+                                <select class="box-dropdown" @bind="c.GradeL">
+                                    <option>-</option>
+                                    <option>A</option>
+                                    <option>A-</option>
+                                    <option>B+</option>
+                                    <option>B</option>
+                                    <option>B-</option>
+                                    <option>C+</option>
+                                    <option>C</option>
+                                    <option>C-</option>
+                                    <option>D+</option>
+                                    <option>D</option>
+                                    <option>D-</option>
+                                    <option>F</option>
+                                    <option>P</option>
+                                </select>
+                            </td>
+                            <td>
+                                <select class="box-dropdown" @bind="c.DistributionReq">
+                                    <option></option>
+                                    <option>AH</option>
+                                    <option>SS</option>
+                                    <option>SM</option>
+                                    <option>PPD</option>
+                                    <option>GL</option>
+                                    <option>LA</option>
+                                </select>
+                            </td>
+                            <td>
+                                <select class="box-dropdown" @bind="c.CompetencyReq">
+                                    <option></option>
+                                    <option>Q</option>
+                                    <option>W</option>
+                                    <option>S</option>
+                                </select>
+                            </td>
+                        </tr>
+                    }
+
+            </table>
+            
+            <div>
+                <button type="button" @onclick = "@(()=>sem.Courses.Add(new Subject{}))">Add Course</button>
+            </div>
+
+        </div>
+    }
+
+    <!-- Add Semester Button--> 
+    <div class="button-center">
+        <div class="center-horizontal">
+            <button type="button" @onclick="@(()=>CourseP.SemList.Add(new Semester{ 
+                    Courses = new List<Subject>{
+                            new Subject {},
+                            new Subject {},
+                            new Subject {},
+                            new Subject {}
+                        } }))">Add Semester</button>
+        </div>
+    </div>
+
+</div>
+
+@code{
+    [CascadingParameter(Name="CourseP")]
+    public CoursePlan CourseP { get; set; }
+} *@

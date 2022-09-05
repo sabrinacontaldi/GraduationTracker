@@ -1,0 +1,976 @@
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/Blazor CoursePlanner.StaticWebAssets.xml
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/ref/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/Blazor CoursePlanner.pdb
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Blazor CoursePlanner.pdb
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/blazor.webassembly.js
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt.dat.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat.gz
+/Users/sabrinacontaldi/Desktop/Blazor CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.7.js.gz
+/Users/sabrinacontaldi/De
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/blazor.boot.json
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/Blazor CoursePlanner.StaticWebAssets.xml
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/ref/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/Blazor CoursePlanner.pdb
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Blazor CoursePlanner.pdb
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/blazor.webassembly.js
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/FSharp.Core.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/HtmlAgilityPack.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Data.SqlClient.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.Relational.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.SqlServer.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Caching.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Caching.Memory.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Identity.Client.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.JsonWebTokens.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Logging.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Protocols.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Tokens.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.SystemEvents.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Newtonsoft.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ScrapySharp.Core.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ScrapySharp.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.ConfigurationManager.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Common.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IdentityModel.Tokens.Jwt.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Caching.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.ProtectedData.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Permissions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Windows.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/cs/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/de/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/en/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/es/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/fr/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/it/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ja/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ko/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/pl/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/pt-BR/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ru/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/tr/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/zh-Hans/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/zh-Hant/FSharp.Core.resources.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt.dat.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.7.js.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/FSharp.Core.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/HtmlAgilityPack.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Authorization.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Forms.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.Web.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Components.WebAssembly.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.AspNetCore.Metadata.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Data.SqlClient.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Caching.Abstractions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Caching.Memory.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Binder.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Configuration.Json.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Options.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Extensions.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Identity.Client.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Logging.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Protocols.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.IdentityModel.Tokens.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.JSInterop.WebAssembly.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.SystemEvents.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Newtonsoft.Json.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ScrapySharp.Core.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ScrapySharp.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.ConfigurationManager.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Common.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IdentityModel.Tokens.Jwt.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipelines.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Caching.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.ProtectedData.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Permissions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Windows.Extensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/cs/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/de/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/en/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/es/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/fr/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/it/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ja/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ko/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/pl/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/pt-BR/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/ru/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/tr/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/zh-Hans/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/zh-Hant/FSharp.Core.resources.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.CSharp.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.Core.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.VisualBasic.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/Microsoft.Win32.Registry.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.AppContext.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Buffers.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Concurrent.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Immutable.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.NonGeneric.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.Specialized.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Collections.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Annotations.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.DataAnnotations.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.EventBasedAsync.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.TypeConverter.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ComponentModel.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Configuration.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Console.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Core.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.Common.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.DataSetExtensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Data.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Contracts.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Debug.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.DiagnosticSource.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.FileVersionInfo.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Process.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.StackTrace.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TextWriterTraceListener.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tools.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.TraceSource.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Diagnostics.Tracing.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Drawing.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Dynamic.Runtime.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Formats.Asn1.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Calendars.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.Extensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Globalization.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.Brotli.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.FileSystem.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.ZipFile.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Compression.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.AccessControl.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.DriveInfo.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.Watcher.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.FileSystem.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.IsolatedStorage.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.MemoryMappedFiles.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.AccessControl.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.Pipes.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.UnmanagedMemoryStream.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.IO.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Expressions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Parallel.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.Queryable.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Linq.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Memory.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.Json.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Http.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.HttpListener.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Mail.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.NameResolution.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.NetworkInformation.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Ping.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Requests.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Security.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.ServicePoint.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.Sockets.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebClient.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebHeaderCollection.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebProxy.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.Client.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.WebSockets.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Net.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.Vectors.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Numerics.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ObjectModel.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.DataContractSerialization.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Runtime.InteropServices.JavaScript.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Uri.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.Linq.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.Xml.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.DispatchProxy.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.ILGeneration.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.Lightweight.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Emit.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Extensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Metadata.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.TypeExtensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Reflection.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Reader.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.ResourceManager.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Resources.Writer.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.Unsafe.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.CompilerServices.VisualC.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Extensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Handles.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.InteropServices.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Intrinsics.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Loader.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Numerics.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Formatters.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Json.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.Xml.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.Serialization.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Runtime.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.AccessControl.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Claims.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Algorithms.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Cng.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Csp.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Encoding.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.OpenSsl.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.Primitives.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Cryptography.X509Certificates.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.Windows.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.Principal.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.SecureString.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Security.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ServiceModel.Web.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ServiceProcess.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.CodePages.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.Extensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encoding.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Encodings.Web.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.Json.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Text.RegularExpressions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Channels.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Overlapped.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Dataflow.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Extensions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.Parallel.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Tasks.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Thread.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.ThreadPool.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.Timer.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Threading.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.Local.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Transactions.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.ValueTuple.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Web.HttpUtility.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Web.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Windows.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Linq.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.ReaderWriter.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.Serialization.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XDocument.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.XDocument.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XPath.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlDocument.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.XmlSerializer.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Xml.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/WindowsBase.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/mscorlib.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/netstandard.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/System.Private.CoreLib.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.timezones.blat
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.wasm
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt.dat
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_CJK.dat
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_EFIGS.dat
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/icudt_no_CJK.dat
+/Users/sabrinacontaldi/Desktop/CoursePlanner/bin/Debug/net5.0/wwwroot/_framework/dotnet.5.0.7.js
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.csproj.AssemblyReference.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.AssemblyInfoInputs.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.AssemblyInfo.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.csproj.CoreCompileInputs.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.MvcApplicationPartsAssemblyInfo.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.RazorComponent.input.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/App.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Controls/CourseComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Controls/MajorProgressComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Controls/SemesterComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Data/CoursePlannerContext.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Pages/Counter.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Pages/FetchData.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Pages/MajorMinor.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Shared/SurveyPrompt.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/_Imports.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Controls/MajorComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Pages/Index.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Shared/MainLayout.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Shared/NavMenu.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.RazorComponent.output.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.TagHelpers.input.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.TagHelpers.output.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.RazorCoreGenerate.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/App.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Controls/CourseComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Controls/MajorProgressComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Controls/SemesterComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Data/CoursePlannerContext.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Pages/Counter.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Pages/FetchData.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Pages/MajorMinor.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Shared/SurveyPrompt.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/_Imports.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Controls/MajorComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Pages/Index.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Shared/MainLayout.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Shared/NavMenu.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ZeujwuHs.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/BWIa+ZrC.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/xvDk+UIJ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/uo86qNUF.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/k4ctEBMn.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/QbQR+rca.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Z4I6ptDq.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/frzv5kVs.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/0AMj5ViM.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/EpQyzfsL.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/orKNRiM9.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/K1UjG2+i.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/DFEEeBM1.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/0FnHbBa+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/fiLhQbE9.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/xbcixMYb.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/QIzeaNC9.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/bPMJOkeS.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mirRlNWf.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/8IHRKP4k.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/5xVjxE8N.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/XuydMngi.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/FJ+VB4bG.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/2rxhlG97.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mjUUpm+g.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Js3beFbx.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ch3LcVP8.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/6CFJvVBi.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/LqrZb+Rt.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/GkCRmY2K.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/uGS2S9tz.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/wdKxb+3y.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/5nmvljiP.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/N1IexZXF.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/vV0eAIRb.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/2L3P2qXB.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/EBj1YPFw.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Af4kyn1k.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Z08nZnXr.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/XYsnygZ9.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/pixYy+IL.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/OJPIg+go.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Yv1SXnDX.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/+Pd1jsNa.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Kg1BjyyH.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/CgFU+TiC.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/JuHvWm5P.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/q+ZHp5Yg.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/PidK5QHc.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/3m3P2bOp.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/vxv4ygtq.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/uPp2mjaF.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/q973GdOd.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/I24lfzkW.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/uyJALNLu.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/c+i8KF2E.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/sq5490se.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/tXgt9BN+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/GN+tz2kW.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/JrehNSNA.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/lIVZqvCI.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/24tX1H4P.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/uYW0VQ5+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/8oOlyZY1.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/U9h6wQe+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/YjXPkF0l.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/lgHeFLgM.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mEnllBRP.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/tPI2l3LQ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Ff1SFESJ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/EChI8E3v.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/z9gD7EdZ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/t5kc+Yes.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/VsGtYKhm.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/5lm2BSnK.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/g3VW+5yZ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/g9uvk8V+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/20nvyLAg.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/sDikoaHm.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/usM9s1dL.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/8ls4ZZNG.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/YGar40C7.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Tsj0LUdN.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ygmfUxNb.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/jUKkqg3O.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Iu+HsRje.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Tjzxl6W2.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/kh+UL0Wd.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/wUKInH+J.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/9SfewOIU.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/GMoFXIoM.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/3yC+MrvP.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/5slwXLmx.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mwUBcH65.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/DbWsjKLu.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/zbp3zVjp.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/z+qY3b6b.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/LYa80pvq.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/jb1EjE+V.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mB39aXNF.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/QGwCUgpy.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/rP6hIBST.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ZmswsVrD.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/CsIjDAm5.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/osXc8mDU.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/077NYxqb.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/eXKcmoxZ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Wx7YBqFj.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/lulb5a0o.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/LTtDz1h3.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/tGSPlyaZ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/wk2Cz++T.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/w96zgYkw.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/tgI7xNn7.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/2jbSWkrI.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/LDjjFKwg.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Z5LKCn7k.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/W9cKnT6v.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/yi4Yw+xD.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/TjyDTGZm.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ILfOjxfw.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/U5h4KlfU.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/43jGRkao.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/oJYV5ZsS.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/kBeFGzbX.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Oly0xKO2.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/474m+Qbd.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/3UzvC9NA.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/+vLuT3B+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ra0L5ZOr.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/IAJ8wlqG.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/xmr1kcSO.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/BSautUby.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/suK1S9g5.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/4yF+dPgh.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/F4CDfD2a.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/SB+jStVK.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/wrH5FRIq.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/+cS0u5hK.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/5nIKBOrj.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/fV7LzAL4.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/IyTc+hjF.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/s+IaNT3S.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/JFe0HRAs.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/yHJrSZky.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/KxC+CYI7.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/1udjaAKS.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/JD1W92GZ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/6m4n+Pka.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Wv5P+L4c.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/PxzqrkYn.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/f8dgngYo.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/PnFboktz.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ZmLWwXH9.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/cF2fetaE.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/12SgW+sg.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/2YsAT1mT.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/XmJ2SzFv.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mv70iUtu.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/xnhBeJLX.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/9al1wqNe.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mqhNWVyq.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/cQZc+m8O.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/lgAnbwzy.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/WCU8skR9.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/OeBlldHX.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/LGXBiUMl.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/0jxOagqr.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/+zhyMn1F.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/QT4t5CI7.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/S5OgG+Jw.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Ml1rUlHL.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/xTUcPWSl.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/QKclP+sS.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/rSHxcVZK.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/MHfoOUpj.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/GTVYhylN.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/jzzCnApf.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/60qrtjiZ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/0l8CqCPn.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/t+az7SS+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/1UCoJpaX.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/+qXdwLXX.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/kvyFN4wb.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/f4UOmpYb.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/1Z2ufHOf.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/DPoOWkbh.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ONVrK4G6.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/IzDI9Dt+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/NWaBzP8e.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/iZfNmnWx.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/QQLjtX35.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/3+vk9dsq.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/7TgyVsAP.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/wnSKCwSh.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/fskGkzfK.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/CcPk+wwo.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/PAgbmAly.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/445htl2O.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/+Zd1Oy0d.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Gc+qv0mB.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/HTFQIoAs.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/8aKw0mxI.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/BAT1yfJG.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/tICEHUy+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/jZNE+nL8.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ckralFsE.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/w2MiPANO.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/fCclO0RZ.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/xyK1jjLe.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/yMMo9yMn.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/98Yd7+sA.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/1Mk3mTeD.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/tuQp71LF.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/H5BmP38D.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Z+RVPcKc.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/7O+fHa05.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/7CZGK+NO.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/xz612F+1.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/UWLSVgen.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/mphIaJjo.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/HR66F+K+.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/P+YhOnOg.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/RWhd7RCX.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/XLvcFAHL.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/OtbaC0vg.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Tak2CnNW.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/tJLM4GFo.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/3VtRwpmM.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/UoyqcPa9.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/Lb00Ueqb.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/GKFApKqp.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/ljAiGhgS.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/IFsmWudp.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/build-gz/HwB2gFW4.gz
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/blazor.satelliteasm.props
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/staticwebassets/Blazor CoursePlanner.StaticWebAssets.Manifest.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/staticwebassets/Blazor CoursePlanner.StaticWebAssets.xml
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/scopedcss/Controls/MajorComponent.razor.rz.scp.css
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/scopedcss/Pages/Index.razor.rz.scp.css
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/scopedcss/Shared/MainLayout.razor.rz.scp.css
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/scopedcss/Shared/NavMenu.razor.rz.scp.css
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/scopedcss/bundle/Blazor CoursePlanner.styles.css
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/scopedcss/projectbundle/Blazor CoursePlanner.bundle.scp.css
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.RazorTargetAssemblyInfo.cache
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.csproj.CopyComplete
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/ref/Blazor CoursePlanner.dll
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Blazor CoursePlanner.pdb
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Controls/MinorComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Controls/MinorComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/scopedcss/Controls/MinorComponent.razor.rz.scp.css
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/RazorDeclaration/Controls/MinorProgressComponent.razor.g.cs
+/Users/sabrinacontaldi/Desktop/CoursePlanner/obj/Debug/net5.0/Razor/Controls/MinorProgressComponent.razor.g.cs

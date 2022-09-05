@@ -1,0 +1,33 @@
+input[b-tov1aq7xzp]{
+    font-family:'Courier New', Courier, monospace;
+    color: black;
+    text-align: center;
+    margin-top: 5px;
+    /* width: inherit;
+    height: inherit; */
+}
+
+select[b-tov1aq7xzp]{
+    color: black;
+    text-align: center;
+    border-style: hidden;
+    border-radius: 4px;
+    min-width: 20px;
+    /* height: inherit; */
+    padding-left: 5px;    
+}
+
+input[b-tov1aq7xzp], select[b-tov1aq7xzp]{
+    text-align: center;
+    box-sizing: border-box;
+    border-style: solid;
+    border-width: 1px;
+    height: 38px;
+    margin-top: 5px;
+}
+
+button[b-tov1aq7xzp]{
+	border-radius: 30px;
+	height: 50px;
+	width: 150px;
+}

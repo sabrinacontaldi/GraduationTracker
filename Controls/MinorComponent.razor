@@ -1,0 +1,24 @@
+@if(CourseP.DegreeType == "Bachelor of Arts")
+{
+    int minorNum = 1;
+    foreach(var min in CourseP.MinorChoices)
+    {
+        <label>Minor @minorNum:     </label>
+        minorNum++;
+
+        <select class="box-dropdown" @bind="min.Title">
+            <option>-</option>
+            @foreach(var m in CLA.Minors)
+            {
+                <option>@m.Title</option>
+            }
+        </select> 
+    }
+    <br/>
+    <button type="button" @onclick = "@(()=>CourseP.MinorChoices.Add(new MinorInfo{Title="-"}))" >Add Minor</button>
+}
+
+@code{
+    [CascadingParameter(Name="CourseP")]
+    public CoursePlan CourseP { get; set; }
+}
